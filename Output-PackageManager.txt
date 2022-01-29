@@ -1,0 +1,4 @@
+﻿Attempting to gather dependencies information for package 'SkiaSharp.Extended.Iconify.FontAwesome.5.0.0' with respect to project 'ffm', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'SkiaSharp.Extended.Iconify.FontAwesome.5.0.0' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'SkiaSharp.Extended.Iconify.FontAwesome.5.0.0'
+Resolved actions to install package 'SkiaSharp.Extended.Iconify.FontAwesome.5.0.0'

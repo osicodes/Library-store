@@ -1,0 +1,68 @@
+{  
+  "student": [
+    {
+      "FirstName": "James",
+      "Surname": "Emeka",
+      "Email": "emeka@gmail.com",
+      "Gender": "Male",
+      "Username": "James",
+      "Password": "2021"
+    },
+    {
+      "FirstName": "Peace",
+      "Surname": "Folunke",
+      "Email": "emekanna@gmail.com",
+      "Gender": "Female",
+      "Username": "Peace",
+      "Password": "11"
+    },
+    {
+      "FirstName": "Kelvin",
+      "Surname": "Emma",
+      "Email": "kelvin@gmail.com",
+      "Gender": "Male",
+      "Username": "Kelvin",
+      "Password": "10"
+    },
+    {
+      "FirstName": "Osinachi",
+      "Surname": "Mbah",
+      "Email": "osi@gmail.com",
+      "Gender": "Male",
+      "Username": "Osi",
+      "Password": "1999"
+    },
+    {
+      "FirstName": "judith",
+      "Surname": "chukwu",
+      "Email": "judith@gmail.com",
+      "Gender": "FEMALE",
+      "Username": "judith",
+      "Password": "judith"
+    },
+    {
+      "FirstName": "Femi",
+      "Surname": "Ola",
+      "Email": "olafemi@yahoo.com",
+      "Gender": "MALE",
+      "Username": "olafemi",
+      "Password": "femi"
+    },
+    {
+      "FirstName": "Elizabeth",
+      "Surname": "Madu",
+      "Email": "lizy@gmail.com",
+      "Gender": "FEMALE",
+      "Username": "lizy",
+      "Password": "lizy"
+    },
+    {
+      "FirstName": "computer",
+      "Surname": "computer",
+      "Email": "comp@gmail.com",
+      "Gender": "MALE",
+      "Username": "computer",
+      "Password": "computer"
+    }
+  ]
+}

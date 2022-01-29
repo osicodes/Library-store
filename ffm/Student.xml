@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<signup>
+  <student>
+    <FirstName>James</FirstName>
+    <Surname>Emeka</Surname>
+    <Email>emeka@gmail.com</Email>
+    <Gender>Male</Gender>
+    <Username>James</Username>
+    <Password>2021</Password>
+  </student>
+  <student>
+    <FirstName>ert</FirstName>
+    <Surname>wer</Surname>
+    <Email>ert@gmail.com</Email>
+    <Gender>MALE</Gender>
+    <Username>wer</Username>
+    <Password>wert</Password>
+  </student>
+  <student>
+    <FirstName>Kelvin</FirstName>
+    <Surname>Emma</Surname>
+    <Email>kelvin@gmail.com</Email>
+    <Gender>MALE</Gender>
+    <Username>kelvin</Username>
+    <Password>10</Password>
+  </student>
+</signup>

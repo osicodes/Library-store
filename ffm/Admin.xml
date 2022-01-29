@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<employees>
+  <logins>
+    <username>osi</username>
+    <password>1960</password>
+    <name>Osinachi</name>
+    <surname>John</surname>
+  </logins>
+  <logins>
+    <username>Victor</username>
+    <password>2171</password>
+    <name>Victor</name>
+    <surname>Okoli</surname>
+  </logins>
+  <logins>
+    <username>Raphael</username>
+    <password>2180</password>
+    <name>Raphael</name>
+    <surname>Umeh</surname>
+  </logins>
+</employees>

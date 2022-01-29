@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<products>
+  <group>
+    <categories>Chemistry</categories>
+  </group>
+  <group>
+    <categories>Biology</categories>
+  </group>
+  <group>
+    <categories>Physics</categories>
+  </group>
+  <group>
+    <categories>health</categories>
+  </group>
+  <group>
+    <categories>Programming</categories>
+  </group>
+  <group>
+    <categories>Computer</categories>
+  </group>
+  <group>
+    <categories>French</categories>
+  </group>
+</products>

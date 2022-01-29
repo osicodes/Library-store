@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<products>
+  <books>
+    <BookID>34</BookID>
+    <BookName>Numerical Methods</BookName>
+    <Category>Physics</Category>
+    <Stock>1</Stock>
+    <Price>18</Price>
+    <Description>Learn Optimization</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\NumericalAnalysis.jpg</Image>
+  </books>
+  <books>
+    <BookID>0014</BookID>
+    <BookName>SAT Study Guide</BookName>
+    <Category>health</Category>
+    <Stock>10</Stock>
+    <Price>25</Price>
+    <Description>A guide to help you prepare for SAT</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\SATstudyGuide.jpg</Image>
+  </books>
+  <books>
+    <BookID>05</BookID>
+    <BookName>Cambridge IGCSE Chemistry</BookName>
+    <Category>Chemistry</Category>
+    <Stock>15</Stock>
+    <Price>20</Price>
+    <Description>Prepare for IGCSE Chemistry exam</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\IGSCEchemistry.jpg</Image>
+  </books>
+  <books>
+    <BookID>06</BookID>
+    <BookName>Python for Beginners</BookName>
+    <Category>Programming</Category>
+    <Stock>4</Stock>
+    <Price>20</Price>
+    <Description>Learn Python programming language</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\Python.jpg</Image>
+  </books>
+  <books>
+    <BookID>07</BookID>
+    <BookName>Deep Learning</BookName>
+    <Category>Deep Learning</Category>
+    <Stock>10</Stock>
+    <Price>24.99</Price>
+    <Description>Learn about Neural Networks</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\Deep Learning.jpg</Image>
+  </books>
+  <books>
+    <BookID>8</BookID>
+    <BookName>Basic Computer</BookName>
+    <Category>Programming</Category>
+    <Stock>12</Stock>
+    <Price>22.99</Price>
+    <Description>Learn the basics of computer.</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\Computer.jpg</Image>
+  </books>
+  <books>
+    <BookID>09</BookID>
+    <BookName>Advanced C++</BookName>
+    <Category>Programming</Category>
+    <Stock>12</Stock>
+    <Price>23.95</Price>
+    <Description>Learn more about C++.</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\Advanced C++.jpg</Image>
+  </books>
+  <books>
+    <BookID>12</BookID>
+    <BookName>Matlab </BookName>
+    <Category>Programming</Category>
+    <Stock>7</Stock>
+    <Price>22.99</Price>
+    <Description>Matlab Programming</Description>
+    <Image>C:\Users\Osinachi\Documents\Visual Studio 2015\Projects\Library Store(Visual Studio)\ffm\Books\Matlab.jpg</Image>
+  </books>
+</products>
